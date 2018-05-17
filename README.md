@@ -1,5 +1,5 @@
 # phpwspse
-Conexión en PHP con el WebServices de PSEm
+Conexión en PHP con el WebServices de PSE
 
 NOTA:
 
