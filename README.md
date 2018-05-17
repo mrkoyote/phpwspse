@@ -1,11 +1,13 @@
 # phpwspse
 Conexión en PHP con el WebServices de PSEm
 
-#los datos de usuario con que se realizo la prueba fueron retirados de los archivos se y se remplazo por caracteres.
-#se debe completar esta informacion, con una valida registrada para su correcto funcionanmiento. los archivos en cuesion son: 
+NOTA:
+
+Los datos de usuario con que se realizo la prueba fueron retirados de los archivos se y se remplazo por caracteres.
+Se debe completar esta informacion, con una valida registrada para su correcto funcionanmiento. los archivos en cuesion son: 
 
 
-#ruta
+Rutas
 
 #/config/laconexion.php
 
